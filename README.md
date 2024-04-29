@@ -6,6 +6,8 @@ This is a little demo of Node.js CMS [Keystone 6](https://keystonejs.com/) I bui
 - Custom page rendering all recipes from the GraphQL API
 - Images hosted at S3
 
+Their documentation includes a bunch of [great examples](https://keystonejs.com/docs/examples) to get you started.
+
 ## Install & Configure
 
 ```sh
