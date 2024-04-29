@@ -1,0 +1,8 @@
+node_modules
+.next
+.keystone
+public
+schema.prisma
+schema.graphql
+.env
+keystone-example.db
